@@ -2,6 +2,9 @@
 
 ## Identified Problem or Need
 
+My cats can be quite fussy with what food they choose to eat as well as sometimes not knowing if they have been feed already or how much cat food there
+is left for the cats
+
 Replace this text with a clearly stated problem or need that exists that your project will attempt to solve / fulfil.
 
 

@@ -13,7 +13,7 @@ My project will allow users to keep track of users cats and weather they have be
 - Keep track of how many times they have been feed in a day
 - display The cats preference of food
 - The amount of cat food left and the kinds of cat food left
-- Feature 5 here
+- Tell user if a cat needs to be feed
 
 
 ---
